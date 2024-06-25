@@ -1,3 +1,10 @@
+docker/desktop-kubernetes-apiserver:v1.26.3
+docker/desktop-kubernetes-controller-manager:v1.26.3
+docker/desktop-kubernetes-scheduler:v1.26.3
+docker/desktop-kubernetes-proxy:v1.26.3
+docker/desktop-kubernetes-pause:3.9
+docker/desktop-kubernetes-etcd:3.5.6-0
+docker/desktop-kubernetes-coredns:v1.9.3
 # nginx
 # redis
 # 支持私库
@@ -6,4 +13,4 @@
 # 支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 # mysql:5.7.38
-centos:centos7.9.2009
+# centos:centos7.9.2009
